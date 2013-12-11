@@ -1,0 +1,29 @@
+It has a main menu:
+
+# MIPS Calculator:
+
+Please choose from
+
+1. general calculat
+
+2. Extra feature: 
+
+When user choice '1', it pops out "Please entry the expression (no more than 5 operands, no '='): "
+
+In this step, user can entry things like : 5*(3+1) or 6+6*(1+2) and so on. But please entry those in English.
+
+If there are signs other than 0-9 and "+-*/()", a warning sign will pop out and loop back to entry the expression.
+If user trys to divide a number by zero, a warning sign will pop out and loop back to entry the expression.
+
+When user choice '1', it pops out a sub-menu:
+
+# Please choose: 
+1. decimal to binary 2 decimal to hex 3. hex to binary 4.binary to decimal 5. exit 
+
+Your choice: 
+
+After user made their desicion, it asks user to entry the number: "Please entry the number you want to convert:"
+
+You can only entry a certain type of number.
+
+Thank you!
